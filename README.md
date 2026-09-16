@@ -1,7 +1,5 @@
 # 🧩 TeamDiva
 
-## 🧩 Coding Test Challenge {#coding-test-challenge}
-
 유형별로 알고리즘 문제를 풀며 코딩테스트를 준비하는 챌린지입니다.
 
 - **진행 기간**\: 2026\-09\-16 (수) \~ 2026\-11\-16 (월)
