@@ -144,6 +144,6 @@
 ## 🙋 참여 방법 {#section-1}
 
 1. 각자 이름으로 레포/폴더를 생성합니다. (예: `참여자명`)
-2. 해당 날짜 폴더에 문제 풀이를 커밋합니다. (예: `0916-구현/문제이름.py` 또는 확장프로그램 이용[여기](chrome-extension://ccammcjdkpgjmcpijpahlehmapgmphmk/welcome.html))
+2. 해당 날짜 폴더에 문제 풀이를 커밋합니다. (예: `0916-구현/문제이름.py` 또는 확장프로그램 이용[링크](chrome-extension://ccammcjdkpgjmcpijpahlehmapgmphmk/welcome.html)
 4. 정해진 기간 내에 PR 또는 커밋으로 제출합니다.
 
